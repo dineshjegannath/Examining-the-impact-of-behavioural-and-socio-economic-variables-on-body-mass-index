@@ -1,0 +1,3 @@
+- Created a single regression model to examine the variable that impact the body mass index using machine learning concepts.
+- Used publicly available dataset from Centers for Disease Control and Prevention’s (CDC) Behavioral Risk Factor Surveillance System (BRFSS) data
+- Achieved 75% R-squared value when fitting the model to the dataset.
